@@ -1,0 +1,18 @@
+.home{
+    width: 95%;
+    margin: 1rem auto;
+}
+
+/* Ajuste Celular */
+@media(max-width: 450px){
+    .home {
+        width: 70%;
+    }
+}
+
+/* Ajuste Ipad */
+@media(max-width: 770px){
+    .home {
+        width: 90%;
+    }
+}
